@@ -110,7 +110,7 @@ class Discord
                 "footer" => array(
                     "text" => "$Date $Time",
 					//Alarm-clock icon for the footer. You could also download the image and set the icon_url to the image path
-                    "icon_url" => "https://e7.pngegg.com/pngimages/766/619/png-clipart-emoji-alarm-clocks-alarm-clock-time-emoticon.png"
+                    "icon_url" => "https://https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.neowin.net/news/there-is-an-official-4k-version-of-the-windows-xp-bliss-wallpaper-download-it-here/&ved=2ahUKEwjB6LeW34KOAxUdV0EAHfEgCoUQh-wKegQIFxAD&usg=AOvVaw2ACtDdHSRPulgAha9d3e3V"
                 ),
             )],
         );
